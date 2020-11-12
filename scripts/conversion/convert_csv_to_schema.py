@@ -18,7 +18,8 @@ schema_to_create = ["artemis"]
 # OUTPUT_DIR = "/home/remi/github/cobidas_chckls"
 # OUTPUT_DIR = "/home/remi/github/cobidas-PET"
 # OUTPUT_DIR = "/home/remi/github/cobidas"
-OUTPUT_DIR = "C:\Users\Utilisateur\Documents\conferences\BHD2020_BrainhackDonostia2020\eCobidas"
+# OUTPUT_DIR = "C:\Users\Utilisateur\Documents\conferences\BHD2020_BrainhackDonostia2020\eCobidas"
+OUTPUT_DIR = r"C:\Users\jasmine\eCobidas"
 
 # REMOTE_REPO ----------------------------------------
 # Placeholder to insert in all instances of the remote repo that will host the
@@ -29,7 +30,7 @@ OUTPUT_DIR = "C:\Users\Utilisateur\Documents\conferences\BHD2020_BrainhackDonost
 # REMOTE_REPO = "https://raw.githubusercontent.com/Remi-Gau/cobidas_chckls/"
 # REMOTE_REPO = "https://raw.githubusercontent.com/Remi-Gau/cobidas-PET/"
 # REMOTE_REPO = "https://raw.githubusercontent.com/ohbm/cobidas/"
-REMOTE_REPO = "https://raw.githubusercontent.com/MarCordero/eCobidas/"
+REMOTE_REPO = "https://raw.githubusercontent.com/jasminetan6032/eCobidas/"
 
 # -----------------------------------------------------------------------------
 #                                   RUN
